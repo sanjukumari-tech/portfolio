@@ -1,0 +1,16 @@
+.social-icons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 20px;
+  color: rgb(1, 44, 44);
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.icon:hover {
+  color: rgb(1, 44, 44);
+}
